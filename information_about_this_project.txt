@@ -1,0 +1,6 @@
+1- In order to register as an admin, go to the login page and enter the following information:
+
+	Email: admin@gmail.com
+	Password: admin
+
+2- All the admin can do currently is just add a product
